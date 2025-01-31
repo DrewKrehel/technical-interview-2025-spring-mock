@@ -1,5 +1,4 @@
 require_relative 'coffee_shop'
-require_relative 'coffee'
 
 shop = CoffeeShop.new
 
