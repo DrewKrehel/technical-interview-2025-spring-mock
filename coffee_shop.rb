@@ -21,7 +21,7 @@ class CoffeeShop
         @inventory.use_supplies(1)
         puts "✅ Fulfilled order for #{coffee.description}"
       else
-        puts "❌ Insuficient supplies for #{coffee.description}"
+        puts "❌ Insufficient supplies for #{coffee.description}"
       end
     end
   end

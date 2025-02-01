@@ -19,5 +19,5 @@ shop.clean_up
 # 🔄 Fulfilling orders...
 # ✅ Fulfilled order for Medium Latte
 # ✅ Fulfilled order for Large Cappuccino
-# ❌ Insuficient supplies for Small Espresso
+# ❌ Insufficient supplies for Small Espresso
 # 🏁 There are 0 orders remaining!
