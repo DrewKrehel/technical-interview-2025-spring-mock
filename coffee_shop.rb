@@ -26,7 +26,7 @@ class CoffeeShop
     end
   end
 
-  # private
+  #  private
 
   def clean_up
     @orders.clear
