@@ -13,11 +13,10 @@ shop.clean_up
 
 
 ☕ Welcome to Java Haven!
-📖 Placed order for a Medium Latte
-📖 Placed order for a Large Cappuccino
-📖 Placed order for a Small Espresso
+📖 Placed order for a medium Latte
+📖 Placed order for a large Cappuccino
+📖 Placed order for a small Espresso
 🔄 Fulfilling orders...
-✅ Fulfilled order for Medium Latte
-✅ Fulfilled order for Large Cappuccino
-❌ Insufficient supplies for Small Espresso
-🏁 There are 0 orders remaining!
+✅ Fulfilled order for medium Latte
+✅ Fulfilled order for large Cappuccino
+❌ Insuficient supplies for small Espresso
