@@ -5,5 +5,5 @@
 🔄 Fulfilling orders...
 ✅ Fulfilled order for Medium Latte
 ✅ Fulfilled order for Large Cappuccino
-❌ Insufficient supplies for Small Espresso
+❌ Insuficient supplies for Small Espresso
 🏁 There are 0 orders remaining!

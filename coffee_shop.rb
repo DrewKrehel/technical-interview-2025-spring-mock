@@ -21,17 +21,17 @@ class CoffeeShop
         @inventory.use_supplies(1)
         puts "✅ Fulfilled order for #{coffee.description}"
       else
-        puts "❌ Insuficient supplies for #{coffee.description}"
+        puts "❌ Insufficient supplies for #{coffee.description}"
       end
     end
 
-    @orders.clear
     clean_up
   end
 
   private
 
   def clean_up
+    @orders.clear
     puts "🏁 There are #{@orders.count} orders remaining!"
   end
 end
