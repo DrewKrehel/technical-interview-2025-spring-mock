@@ -1,5 +1,6 @@
 require_relative 'coffee'
 require_relative 'inventory'
+require 'debug'
 
 class CoffeeShop
   def initialize
@@ -27,7 +28,7 @@ class CoffeeShop
 
     clean_up
   end
-
+  debugger
   private
 
   def clean_up
