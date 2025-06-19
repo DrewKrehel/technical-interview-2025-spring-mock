@@ -1,6 +1,7 @@
 require_relative 'coffee'
 require_relative 'inventory'
 
+
 class CoffeeShop
   def initialize
     @orders = []
