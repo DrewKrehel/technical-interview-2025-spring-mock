@@ -1,6 +1,6 @@
 class Inventory
   def initialize
-    @supply_count = 1
+    @supply_count = 2
   end
   
   def has_enough_supplies?(count)
